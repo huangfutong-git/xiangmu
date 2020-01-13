@@ -1,0 +1,6 @@
+com\mr\hft\util\HttplientUtil$1.class
+com\mr\hft\util\HttplientUtil.class
+com\mr\hft\entity\UserEntity.class
+com\mr\hft\controller\UserController.class
+com\mr\hft\http\HttpResult.class
+com\mr\hft\Application.class
